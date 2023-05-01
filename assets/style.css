@@ -177,7 +177,7 @@ p {
         padding: 3.2rem;
     }
 }
-.card-features h3 {
+.card-features h2 {
     font-size: var(--fs-md);
     font-weight: var(--fw-bold);
     margin-bottom: 6px;
